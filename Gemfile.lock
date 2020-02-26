@@ -1,7 +1,9 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    nokogiri (1.5.4)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.8)
+      mini_portile2 (~> 2.4.0)
     pg (0.13.2)
     ruby-ole (1.2.11.3)
     sequel (3.36.1)
